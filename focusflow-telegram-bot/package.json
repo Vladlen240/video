@@ -1,0 +1,12 @@
+{
+  "name": "focusflow-telegram-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FocusFlow Telegram Mini App with bot launcher and per-user state sync",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
